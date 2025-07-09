@@ -1,0 +1,30 @@
+body {
+    background-color: brown;
+}
+.child {
+    /* width: 150px;*/
+    height: 150px;
+    background-color: #ffff;
+    /* flex-shrink: 0;*/
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.child1 {      
+   width: 100px;
+   height: 100px;
+   background-color: blue;
+   margin-top: 10px;
+}
+.child2 {
+    width: 100px;
+   height: 100px;
+   background-color: rgb(190, 109, 16);
+   margin-top: 10px;
+}
+.child3 {
+ width: 100px;
+   height: 100px;
+   background-color: rgb(190, 16, 16);
+   margin-top: 10px;
+}
